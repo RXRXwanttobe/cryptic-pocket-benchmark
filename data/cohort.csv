@@ -1,0 +1,101 @@
+id,pdb,chain,group,name,uniprot,observed_residues,resolution_A
+B001,3A0X,A,Kinase,Sensor protein,Q9X180,149,1.89
+B002,4MWI,A,Kinase,Mixed lineage kinase domain-like protein,Q8NB16,266,1.7
+B003,1E6K,A,Nonenzymatic binding / regulator,Chemotaxis protein CheY,P0AE67,130,2.0
+B004,1KSG,B,Nonenzymatic binding / regulator,"RETINAL ROD RHODOPSIN-SENSITIVE CGMP 3',5'-CYCLIC PHOSPHODIESTERASE DELTA-SUBUNIT",O43924,128,2.3
+B005,1Q4K,A,Nonenzymatic binding / regulator,Serine/threonine-protein kinase PLK,P53350,222,2.3
+B006,1ZM0,A,Nonenzymatic binding / regulator,Pleckstrin,P08567,96,2.1
+B007,2VYR,A,Nonenzymatic binding / regulator,MDM4 PROTEIN,O15151,85,2.0
+B008,3FLG,A,Nonenzymatic binding / regulator,DNA (cytosine-5)-methyltransferase 3B,Q9UBC3,135,1.8
+B009,3JZG,A,Nonenzymatic binding / regulator,Polycomb protein EED,O75530,359,2.1
+B010,3K01,A,Nonenzymatic binding / regulator,Acarbose/maltose binding protein GacH,B0B0V1,391,1.35
+B011,3LY8,A,Nonenzymatic binding / regulator,Transcriptional activator cadC,P23890,323,1.9
+B012,3MWG,B,Nonenzymatic binding / regulator,Iron-regulated ABC transporter siderophore-binding protein SirA,O87491,272,2.1
+B013,3PBF,A,Nonenzymatic binding / regulator,Pulmonary surfactant-associated protein A,P08427,145,1.8
+B014,3TPO,A,Nonenzymatic binding / regulator,Importin subunit alpha-2,P52293,438,2.1
+B015,4AEM,A,Nonenzymatic binding / regulator,ENDOGLUCANASE CEL5A,Q3LHN3,126,2.1
+B016,4FKM,B,Nonenzymatic binding / regulator,Similar to ferric hydroxamate receptor 1,A0A0H3JWU6,209,2.2
+B017,4IKV,A,Nonenzymatic binding / regulator,Di-tripeptide ABC transporter (Permease),Q5KYD1,492,1.9
+B018,4ILG,A,Nonenzymatic binding / regulator,A1 cistron-splicing factor AAR2,P32357,321,2.1
+B019,4KMY,A,Nonenzymatic binding / regulator,Folate receptor beta,P14207,207,1.795
+B020,4OQO,B,Nonenzymatic binding / regulator,Lactotransferrin,P24627,348,2.42
+B021,5E0V,A,Nonenzymatic binding / regulator,Proliferating cell nuclear antigen,P12004,249,2.074
+B022,5SC2,A,Nonenzymatic binding / regulator,CD44 antigen,P15379,150,1.208
+B023,5YHB,A,Nonenzymatic binding / regulator,Polyhedrin,P11041,178,2.08
+B024,5YQP,A,Nonenzymatic binding / regulator,Membrane-anchored lipid-binding protein LAM4,P38800,185,1.7
+B025,5YSB,B,Nonenzymatic binding / regulator,Lin1841 protein,Q92AS8,385,2.2
+B026,6BTY,B,Nonenzymatic binding / regulator,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha,O00443,128,1.678
+B027,7C63,A,Nonenzymatic binding / regulator,"Sugar ABC transporter, periplasmic sugar-binding protein",Q53W80,416,1.63
+B028,7DE1,A,Nonenzymatic binding / regulator,Nucleoprotein,P0DTC9,108,2.0
+B029,7X0G,B,Nonenzymatic binding / regulator,CbpA,A3DCF2,287,2.1
+B030,7X0I,B,Nonenzymatic binding / regulator,CbpB,A3DE73,406,1.7
+B031,8VXU,B,Nonenzymatic binding / regulator,"Multidrug resistance protein, SMR family",U2EQ00,104,2.29
+B032,2VQZ,F,Nucleotide binding / switch,POLYMERASE BASIC PROTEIN 2,P31345,150,2.3
+B033,3I8S,B,Nucleotide binding / switch,Ferrous iron transport protein B,P33650,261,1.8
+B034,6FC2,C,Nucleotide binding / switch,Eukaryotic translation initiation factor 4E,P07260,177,1.92
+B035,1G59,A,Other enzyme,GLUTAMYL-TRNA SYNTHETASE,P27000,468,2.4
+B036,1K47,D,Other enzyme,phosphomevalonate kinase,Q8DR49,314,2.42
+B037,1LBE,B,Other enzyme,ADP RIBOSYL CYCLASE,P29241,248,2.4
+B038,1M5W,D,Other enzyme,Pyridoxal phosphate biosynthetic protein pdxJ,P0A794,242,1.96
+B039,1P4V,A,Other enzyme,N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase precursor,Q47898,295,1.9
+B040,1P9O,A,Other enzyme,Phosphopantothenoylcysteine synthetase,Q9HAB8,269,2.3
+B041,1RTC,A,Other enzyme,RICIN,P02879,268,2.3
+B042,1UTE,A,Other enzyme,PROTEIN (II PURPLE ACID PHOSPHATASE),P09889,302,1.55
+B043,1X2G,C,Other enzyme,Lipoate-protein ligase A,P32099,332,2.4
+B044,1XTC,A,Other enzyme,CHOLERA TOXIN,P01555,192,2.4
+B045,2D05,A,Other enzyme,Chitosanase,P33673,259,2.0
+B046,2FHZ,B,Other enzyme,Colicin-E5,P18000,93,1.15
+B047,2I3A,D,Other enzyme,N-acetyl-gamma-glutamyl-phosphate reductase,P9WPZ9,347,2.15
+B048,2V6M,D,Other enzyme,L-LACTATE DEHYDROGENASE,Q5SJA1,303,2.2
+B049,2VL2,C,Other enzyme,PEROXIREDOXIN-5,P30044,161,1.925
+B050,2W8N,A,Other enzyme,"SUCCINATE-SEMIALDEHYDE DEHYDROGENASE, MITOCHONDRIAL",P51649,480,2.0
+B051,2X47,A,Other enzyme,MACRO DOMAIN-CONTAINING PROTEIN 1,Q9BQ69,229,1.7
+B052,2XSA,A,Other enzyme,HYALURONOGLUCOSAMINIDASE,Q2CEE3,443,2.0
+B053,3F4K,A,Other enzyme,Putative methyltransferase,Q8A3I2,254,2.3
+B054,3GDG,B,Other enzyme,Probable NADP-dependent mannitol dehydrogenase,P0C0Y5,267,2.3
+B055,3ST6,C,Other enzyme,Isochorismate synthase/isochorismate-pyruvate lyase mbtI,P9WFX1,424,1.75
+B056,3T8B,A,Other enzyme,"1,4-Dihydroxy-2-naphthoyl-CoA synthase",P9WNP5,235,1.649
+B057,3UGK,A,Other enzyme,"Saccharopine dehydrogenase [NAD+, L-lysine-forming]",P38998,372,2.01
+B058,3UYI,A,Other enzyme,Perakine reductase,Q3L181,312,2.313
+B059,3VGM,A,Other enzyme,Glucokinase,B1VZT1,312,1.84
+B060,3WB9,C,Other enzyme,Diaminopimelate dehydrogenase,Q67PI3,297,1.93
+B061,4CMW,B,Other enzyme,DITERPENE SYNTHASE,P9WJ61,286,2.209
+B062,4DNC,B,Other enzyme,Histone acetyltransferase KAT8,Q9H7Z6,267,2.05
+B063,4GPI,C,Other enzyme,Phosphoglycerate mutase 1,P18669,235,2.0817
+B064,4GV9,A,Other enzyme,Nucleoprotein,P13699,198,2.46
+B065,4JAX,F,Other enzyme,Hexokinase,P33284,459,2.26
+B066,4JFR,C,Other enzyme,Ornithine carbamoyltransferase,Q8DCF5,334,2.17
+B067,4NZV,B,Other enzyme,"Exonuclease, putative",Q9X1X0,324,1.901
+B068,4P2F,A,Other enzyme,Adenylate cyclase,P9WQ35,189,2.05
+B069,4QVK,B,Other enzyme,PaMTH1 Methyltransferase,Q9HGR1,235,1.97
+B070,4R0X,A,Other enzyme,Peptidyl-prolyl cis-trans isomerase FKBP5,Q13451,122,1.2
+B071,4TTP,A,Other enzyme,Dephospho-CoA kinase,Q5ZVH3,201,2.2
+B072,4UUM,A,Other enzyme,L-LACTATE DEHYDROGENASE,O96445,334,1.368
+B073,4ZM7,A,Other enzyme,Endoglucanase V-like protein,B3Y002,180,0.701
+B074,5B0E,B,Other enzyme,Olivetolic acid cyclase,I6WU39,104,1.603
+B075,5HTO,E,Other enzyme,L-lactate dehydrogenase,Q4PRK9,305,1.9
+B076,5LOC,A,Other enzyme,Meso-diaminopimelate D-dehydrogenase,P04964,320,2.04
+B077,5WBM,B,Other enzyme,Ketohexokinase,P50053,302,2.16
+B078,5YJ2,C,Other enzyme,Uric acid degradation bifunctional protein,Q45697,302,1.71
+B079,5ZJ4,D,Other enzyme,ADP-ribosyltransferase,Q9L1E4,160,1.49739273546
+B080,6DU4,A,Other enzyme,U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase,Q86W50,287,1.7
+B081,6EQJ,A,Other enzyme,Glycogenin-1,P46976,245,2.18
+B082,6JQ9,B,Other enzyme,Short ulvan lyase,A0A109PTH9,483,1.81
+B083,6KSC,A,Other enzyme,DNA ligase A,P9WNV1,321,2.4
+B084,6NEI,B,Other enzyme,(S)-scoulerine 9-O-methyltransferase,Q5C9L2,339,1.85
+B085,6O4F,H,Other enzyme,Alpha-aminoadipic semialdehyde dehydrogenase,P49419,509,1.9
+B086,6VLE,A,Other enzyme,"Alpha-(1,6)-fucosyltransferase",Q9BYC5,460,2.28
+B087,7E5Q,B,Other enzyme,Deferrochelatase/peroxidase,P39597,352,1.9
+B088,7NC8,D,Other enzyme,Glutathione S-transferase GliG,B0Y813,237,2.2
+B089,7QOQ,A,Other enzyme,Glucosyl-3-phosphoglycerate synthase,K5B7Z4,302,1.93
+B090,7W19,A,Other enzyme,Macrolide 2'-phosphotransferase,A5Y459,293,1.9
+B091,7X0F,A,Other enzyme,AMB antimetabolite synthase AmbB,Q9I1H0,446,2.2
+B092,7YJC,A,Other enzyme,Heparanase 50 kDa subunit,Q9Y251,381,2.3
+B093,8AQI,B,Other enzyme,NanoLuc luciferase,Q9GV45,172,1.99
+B094,8H27,A,Other enzyme,16S rRNA (Cytosine(1402)-N(4))-methyltransferase,Q2FXG9,181,2.04
+B095,8U3N,A,Other enzyme,Cytochrome P450-SU1,A0A3E2YLT4,377,2.15
+B096,1KXR,A,Protease,thiol protease DOMAINS I AND II,P97571,320,2.07
+B097,1XQV,A,Protease,Proline iminopeptidase,P96084,290,2.3
+B098,3V55,A,Protease,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,Q9UDY8,368,1.81
+B099,6HEI,A,Protease,"Ubiquitin carboxyl-terminal hydrolase 28,Ubiquitin carboxyl-terminal hydrolase 28",Q96RU2,346,1.64
+B100,6ISU,A,Protease,Ubiquitin carboxyl-terminal hydrolase isozyme L3,P15374,227,1.866

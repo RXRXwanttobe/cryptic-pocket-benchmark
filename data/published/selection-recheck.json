@@ -1,0 +1,16 @@
+{
+  "n": 100,
+  "checked_training_set_sizes": {
+    "lacuna_training_folds": 885,
+    "p2rank_chen11": 241,
+    "p2rank_joined": 347
+  },
+  "pdb_overlap": {
+    "lacuna_training_folds": [],
+    "p2rank_chen11": [],
+    "p2rank_joined": []
+  },
+  "homology_audit_records_present": 100,
+  "retained_targets_with_qualifying_homology_matches": {},
+  "caveat": "Checks apply to documented supervised/development data and stated cutoffs. ESM pretraining nonoverlap is not established; author test fold was observed during development."
+}

@@ -1,0 +1,1 @@
+Shading: pointwise Wilson 95% CI; n = 100 at every k. Shaded intervals are not simultaneous confidence bands. The same targets are reused at each point and the points are correlated. Model superiority must be assessed using paired differences, not overlap of marginal intervals. At a given k, only actual returned predictions are scored if fewer than k are returned.

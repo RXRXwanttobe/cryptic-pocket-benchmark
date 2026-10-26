@@ -1,0 +1,20 @@
+{
+  "offline_input_and_summary_check": "passed: 100 targets, 300 prediction sets",
+  "independent_reference_rescoring": "passed: all 300 published prediction sets",
+  "unit_tests": 6,
+  "fresh_inference_smoke_test": [
+    {
+      "id": "B003",
+      "all_three_ranked_residue_sets_match": true,
+      "shared_lacuna_candidates_verified": true
+    },
+    {
+      "id": "B048",
+      "all_three_ranked_residue_sets_match": true,
+      "shared_lacuna_candidates_verified": true
+    }
+  ],
+  "full_100_target_fresh_inference": "not rerun during packaging; original 2026-10-23 run retained",
+  "minimal_installation": "passed in a separate Python 3.11 virtual environment with NumPy only",
+  "figure_regeneration": "passed: all six English figures"
+}

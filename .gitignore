@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.cache/
+runs/
+tools/
+models/
+data/reference.generated.json
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db

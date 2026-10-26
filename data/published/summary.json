@@ -1,0 +1,23 @@
+{
+  "n": 100,
+  "completed_outputs": 300,
+  "top135": {
+    "p2rank": {
+      "1": 44,
+      "3": 61,
+      "5": 61
+    },
+    "learned": {
+      "1": 42,
+      "3": 54,
+      "5": 62
+    },
+    "learned_plm": {
+      "1": 51,
+      "3": 65,
+      "5": 69
+    }
+  },
+  "original_results_sha256": "bc98750bd6e40c53e29cbec6d02b6fc15bf315865bdb983cb7059f47f429b781",
+  "created_from_frozen_run": "2026-10-23"
+}

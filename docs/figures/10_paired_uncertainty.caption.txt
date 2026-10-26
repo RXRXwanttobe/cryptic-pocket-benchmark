@@ -1,0 +1,1 @@
+Recommended supplement. Paired target bootstrap confidence intervals for the Top-5 difference. Exact McNemar tests have Holm adjustment for two planned comparisons; displayed intervals are per-comparison, not family-wise confidence intervals. A marginal CI overlap in Figure 1 is not a test of these differences.

@@ -1,0 +1,58 @@
+{
+  "frozen_before_plm_at": "2026-10-23T06:14:42.621798+00:00",
+  "selection_sha256": "757b6ac4c967a54423a8844586dea09de71f4be105490b7bc243b13ce68e0af3",
+  "n": 100,
+  "reused": "The frozen 100 targets and original ground-truth residue identities are retained. All three configurations are recomputed using canonical residue numbering. All prior results remain preserved. Within this comparison learned and learned-plm use the identical complete NMA/alpha candidate pool.",
+  "residue_numbering": {
+    "special_number_targets": [
+      "B003",
+      "B026",
+      "B048",
+      "B067",
+      "B074",
+      "B077",
+      "B093"
+    ],
+    "method": "For ALL three configurations, actual input residues are renumbered 1..N with reversible mapping to author numbers and insertion codes. Amino-acid identities, coordinates, B factors and occupancies retained. Reference identities mapped using the same table. Avoids original Lacuna digit-only PLM parser dropping minus signs and residue model lacking insertion codes."
+  },
+  "settings": {
+    "backend": "nma",
+    "conformers": 20,
+    "apo_plus_conformers": 21,
+    "detector": "alpha",
+    "rankers": [
+      "learned",
+      "learned-plm"
+    ],
+    "geometry_threads": 4,
+    "plm": "facebook/esm2_t33_650M_UR50D",
+    "precision": "Official Lacuna automatic GPU fp16, probability linear head float32",
+    "top_reported": 10
+  },
+  "primary": "Top-5 native pocket residue IoU>=0.25 against frozen CryptoBench author annotation union.",
+  "inference": "Paired target bootstrap 10000 samples seed20261023; exact two-sided McNemar; Holm correction for two planned primary comparisons: PLM-vs-P2Rank and PLM-vs-learned. Other analyses descriptive.",
+  "failures": "Fixed denominator 100; no target replacement; no fallback to learned accepted as PLM.",
+  "caveats": [
+    "Additional PLM run follows observation of the baseline results, so this is an incremental comparison, not a fully blinded prospective study.",
+    "Frozen reference is residue annotation union, not a newly reconstructed holo-contact main pocket; published headline scores are not directly reproduced.",
+    "Supervised ranker/head training folds were checked; absence of these sequences from ESM-2 unsupervised pretraining is not established.",
+    "Category counts 2/5/61/3/29 limit class-level conclusions."
+  ],
+  "source_verification": {
+    "clusterer.py": {
+      "pinned_sha256": "d6eb1dfc153da2e0809825118ab7b77aa440109f10f186ed29af1d8dc84ec2e2",
+      "installed_sha256": "169571230ffcbedd2df5190b1290927611b16b652e071609a54b6bf269504a9d",
+      "identical": false
+    },
+    "plm.py": {
+      "pinned_sha256": "6aa345de282a54cf6bcaeb8e33fa674615f03c44ed6fac3cac71439f35c47598",
+      "installed_sha256": "6aa345de282a54cf6bcaeb8e33fa674615f03c44ed6fac3cac71439f35c47598",
+      "identical": true
+    },
+    "plm_head.npz": {
+      "pinned_sha256": "984ab9c52e4cb2caa17f1f55efd3c828cae14b7ef686d074778620c056ff887d",
+      "installed_sha256": "984ab9c52e4cb2caa17f1f55efd3c828cae14b7ef686d074778620c056ff887d",
+      "identical": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cryptic-pocket-benchmark"
+version = "0.1.0"
+description = "An independent, reproducible comparison of P2Rank and two Lacuna ranking configurations"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "RXRXwanttobe"}]
+dependencies = ["numpy>=1.26"]
+
+[project.optional-dependencies]
+run = ["lacuna-pockets==1.2.0", "biopython>=1.83", "scipy>=1.11"]
+plm = ["transformers==4.57.1", "safetensors>=0.4"]
+plots = ["matplotlib>=3.8"]
+
+[project.scripts]
+pocketbench = "pocketbench.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

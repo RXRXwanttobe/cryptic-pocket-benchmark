@@ -1,0 +1,1 @@
+Figure 1. Recovery of the annotated site within the top 1, 3 or 5 predictions for the same 100 targets. Error bars show asymmetric Wilson 95% confidence intervals for each recovery proportion, not uncertainty in binding affinity or a paired test of model differences. The primary endpoint is Top-5 at residue IoU >= 0.25.

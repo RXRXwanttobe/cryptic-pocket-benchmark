@@ -1,0 +1,10 @@
+# Recorded Python 3.11 inference environment, excluding platform-specific PyTorch.
+# Install PyTorch 2.7.1 with CUDA 12.8 using the separate command in README.md.
+lacuna-pockets==1.2.0
+numpy==2.4.6
+scipy==1.17.1
+biopython==1.88
+transformers==4.57.1
+safetensors==0.8.0
+# Original figure generation:
+matplotlib==3.11.2

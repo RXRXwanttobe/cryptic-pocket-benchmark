@@ -1,0 +1,5 @@
+{
+  "url": "https://raw.githubusercontent.com/skrhakv/CryptoBench/9a3432f479325ca3c9fdc3b8612715ab5b6edecc/src/F-statistics/conservation/label_dataset.json",
+  "sha256": "effd00f26af1cc614771321697e7ca6dbc9fb1d851c46c54e652b115d5f3c221",
+  "note": "External annotations are fetched explicitly into the ignored .cache directory; their license is not replaced by this repository LICENSE."
+}

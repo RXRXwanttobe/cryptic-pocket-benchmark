@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this comparison workflow, cite this repository and the upstream predictors and dataset."
+type: software
+title: "Cryptic Pocket Benchmark"
+version: 0.1.0
+date-released: 2026-10-26
+authors:
+  - name: "RXRXwanttobe"
+abstract: "A reproducible, filtered 100-target comparison of default P2Rank and Lacuna learned and learned-plm ranking configurations."
+license: MIT

@@ -1,0 +1,1 @@
+Best residue IoU among Top-5 predictions. Blue below 0.25, white at the threshold, red above it. Contrasting outlines mark IoU >= 0.25. The color scale is piecewise linear with different slopes either side of 0.25. Values are rounded for display only. No single-target error bars are inferred.
